@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation of the Kings Majesties most gracious and general pardon</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46582</idno>
+            <idno type="STC">Wing J363</idno>
+            <idno type="STC">ESTC R24087</idno>
+            <idno type="EEBO-CITATION">07951313</idno>
+            <idno type="OCLC">ocm 07951313</idno>
+            <idno type="VID">40659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1208:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation of the Kings Majesties most gracious and general pardon</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, Henry Hills and Thomas Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:40659:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>J R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>A PROCLAMATION OF THE Kings Majeſties moſt Gracious and General Pardon.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſoon after Our Coronation, We had given Order for preparing of a Bill, containing Our moſt Gracious, General, and Free Pardon to Our Loving Subjects, with intention to have paſſed the ſame into an Act in the firſt Seſſion of Our Parliament, but were unhappily prevented therein, by the late moſt Vnnatural Rebellion; which ſince it hath pleaſed Almighty God by his Bleſſing upon Our Arms, to Suppreſs, We have thought fit to renew Our Princely Intentions of Grace and Mercy to Our Subjects, eſpecially conſidering the ſtedfaſt Loyalty of the far greater number of Our Subjects, who continued firm in their Obedience to Vs notwithſtanding that Rebel<g ref="char:EOLhyphen"/>lion: And being perſwaded that many of thoſe who joyned themſelves in that Rebellion being poor Labourers and Handicraftſmen, were drawn and ſeduced thereinto by the ſubtile and crafty Inſinuations of ſome Ill-diſpoſed Perſons of greater Note and Quality then themſelves, and not from their own Evil Rancour of mind, and Traite<g ref="char:EOLhyphen"/>rous Averſion to Vs or Our Government, whoſe Condition We in Our Princely Clemency commiſerating; And to the end their fears and diſpair of Our Mercy, may not betray them to evil and lewd courſes of Life, but that they may with ſafety return to their Obedience to Vs, and to their former Habitations, Labours, and Imploy<g ref="char:EOLhyphen"/>ments. And that the minds of other Our Subjects may be quieted; and that all Fears and Iealouſies which may concern their ſecurity for any matter ſince Our Reign, or in the Reign of Our late Dearly beloved Brother, be removed and wholly taken away, as much as in Vs lies, We of Our eſpecial Grace and Tenderneſs to Our People, do hereby Publiſh and Declare this Our moſt Royal and Graci<g ref="char:EOLhyphen"/>ous Pardon; And We do hereby for Vs, Our Heirs and Succeſſors Pardon, Acquit, Releaſe and Diſcharge all and every Our Subjects (ex<g ref="char:EOLhyphen"/>cept Bodies Politick and Incorporate, and ſuch other Perſons who ſhall be herein or hereby excepted) of this Our Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> and the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> their Heirs, Executors and Adminiſtrators, them and every of them againſt Vs, Our Heirs and Succeſſors, of, and from all manner of Treaſons, Felonies, Miſpriſions of Treaſon or Felony, Treaſonable or Seditious Words or Libels, Seditious and unlawful Meetings and Conventicles, all Offences whereby any Perſon may be Charged with the Penalty and Danger of <hi>Prae<g ref="char:EOLhyphen"/>munire;</hi> All Riots, Routs, Offences, Contempts, Treſpaſſes, and Miſdemeanours, and all Iudgments and Convictions for not coming to Church and of and from the Forfeitures and Securities for the ſame, or any of them heretofore had, committed or done, except as herein or hereby after is excepted. And Our Will and Pleaſure is, That neither Our ſaid Subjects, nor any of them, nor the Heirs, Executors or Adminiſtrators of any of them, be, or ſhall be ſued, vexed or diſquieted in their Bodies, Goods or Chattels, Lands or Tenements, for any manner of Matter, Cauſe, Contempt, Miſdemeanour, Forfeiture, Offence, or any other thing heretofore ſuffered, done, or committed, or o<g ref="char:EOLhyphen"/>mitted againſt Vs or Our late brother, His or Our Crown, Dignity, Prerogative, Laws or Statutes, and not herein or hereby after except<g ref="char:EOLhyphen"/>ed. And that this Our Grant of General Pardon, by the General Words, Clauſes and Sentences before rehearſed, ſhall be reputed, deemed, adjudged, expounded, allowed and taken in all manner of Our Courts and elſewhere, moſt beneficially and liberally for Our ſaid Subjects, thereby Pardoned in all things not hereafter excepted, as if their particular Perſons and Crimes had herein been at large and fully expreſſed.</p>
+            <p>
+               <pb facs="tcp:40659:2"/>Excepted and always foreprized out of this Our Pardon, all Treaſons Committed or Done in the Parts beyond the Seas, or in any other Place out of this Realm; And alſo Excepted all Offences in Forging or falſe Counterfeiting the Great or Privy Seal, Sign Manual, or Privy Signet, or any of Our Moneys Currant within this Our Realm, or of unlawful Diminution of any of the ſaid Moneys by any ways or means whatſoever, and all Abetting, Aiding, Comforting, or Procuring the ſaid Offences, or any of them.</p>
+            <p>And alſo Excepted all voluntary Murders, Petty Treaſons, Wilful Poyſonings, and all Offences of being acceſſary to the ſame, or any of them, before the Fact committed; And alſo all Piracies and Robberies committed upon the Sea, Robberies upon the High-ways, Burglaries in Houſes, and all Offences of being Acceſſary to the ſaid Offences, or any of them.</p>
+            <p>And alſo Excepted the deteſtable and abominable Vice of Buggery, committed with Man or Beaſt; All Rape and Carnal Raviſhments of Women; All Raviſhments and wilful taking away or Marrying of any Maid, Widow or Damſel againſt her will, or without the Conſent or Agreement of her Parents, or of ſuch as then had her in Cuſtody, and all Offences of Aiding, Comforting, Abetting, or Procuring the ſaid Offences, or any them.</p>
+            <p>And alſo Excepted, all Offences of Perjury, Subornation of Witneſſes, Razing, Forging or Counterfeiting any Deeds, Eſcripts, In<g ref="char:EOLhyphen"/>quiſitions, Indentures of Appraiſment, or other Writings, or Publiſhing the ſame; Forging or Counterfeiting any Examinations or Teſti<g ref="char:EOLhyphen"/>monies of any Witneſs or Witneſſes tending to bring any Perſon or Perſons into danger of his Life, and all Procuring and Counſelling of any of the ſaid Offences.</p>
+            <p>And alſo Except, all Treaſons, Offences, Miſdemeanours and Contempts, other then ſuch for which Iudgment of <hi>Praemunire</hi> hath or may be given, or for not coming to Church, of, and for which any Indictments, Actions, Bill, Plaint or Information, or other Proceſs at any time within ſix years laſt paſt, hath been commenced, ſued or depended in any of His Majeſties Courts at <hi>Weſtminſter,</hi> or other His Ma<g ref="char:EOLhyphen"/>jeſties Courts of Record held within the Cities of <hi>Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don</hi> and <hi>Weſtminſter,</hi> and County of <hi>Middleſex,</hi> and is there depending or remaining to be proſecuted, or whereupon any Verdict, Iudgment, Outlawry, or Decree is already Given, Awarded or Entred; And all Fines, Forfei<g ref="char:EOLhyphen"/>tures and Penalties thereupon now due or accrued, or which ſhall or may be due, accrue, or grow to the Kings Majeſty, and all Executions for the ſame.</p>
+            <p>And alſo Except, all Informations and other Proceedings concerning High-ways and Bridges, or for Repairing County Goals, and all Fines and Iſſues ſet or Returned thereupon ſince the year One thouſand ſix hundred ſeventy nine.</p>
+            <p>And alſo Except, all Offences in taking away, imbezling, or purloyning any Goods, Moneys, Chattels, Iewels, Armore, Munition, Stores, Naval Proviſions, Shipping, Ordnance, or other Habiliments of War belonging to Vs or Our late Brother.</p>
+            <p>And alſo Except, all Offences of Inceſt, Dilapidations, or Simony.</p>
+            <p>And alſo Except, all Contempts and Proceſs thereupon iſſuing in or out of any Court of Equity.</p>
+            <p>And alſo Except, all Recognizances, Conditions and Covenants, and all Penalties, Titles and Forfeitures of Offices, Conditions, or Co<g ref="char:EOLhyphen"/>venants forfeited, accrued, or grown to Vs or to Our late Brother, by reaſon of the Breach or not performing of any Office, Covenant, or Con<g ref="char:EOLhyphen"/>dition whatſoever.</p>
+            <p>Alſo Excepted all Concealments, Frauds, Corruptions, Miſdemeanours, and Offences whereby We or Our late Brother have been deceived in the Collection, Payments, or Anſwering of Our Revenues, or any part thereof, or any other Money due to Vs or received for Vs or Him, and all Forfeitures, Penalties, and <hi>Nomine penes</hi> thereupon ariſing.</p>
+            <p>Provided always, That nothing in this Our Pardon contained ſhall Extend or be Conſtrued to diſcharge any Fines, Sums of Money re<g ref="char:EOLhyphen"/>covered by Iudgment, Fines <hi>pro Licentia concordandi,</hi> Poſt Fines, Iſſues, or Amerciaments, loſt, impoſed, aſſeſſed, ſet or entred, in any Court of Record whatſoever.</p>
+            <p>And alſo Except all Perſons who are as to any Pains, Penalties, or Diſabilities whatſoever Excepted out of the Act of Freé and General Pardon, Indemnity, and Oblivion, made in the Twelfth year of Our late Brothers Reign, and alſo out of any other Act of Freé and Gene<g ref="char:EOLhyphen"/>ral Pardon ſince that time.</p>
+            <p>Excepted alſo all Perſons who after Conviction or Attainder of, or for any manner of Treaſon, or Miſpriſions of Treaſons have been Tranſ<g ref="char:EOLhyphen"/>ported, and ſuch Attainted of other notorious Crimes or Felonies have been Ordered or Directed to be Tranſported into any of Our Foreign Plantations.</p>
+            <p>Except alſo all and every Perſon and Perſons who in a Traiterous and Hoſtile manner Invaded this Our Realm with <hi>James Scott</hi> late Duke of <hi>Monmouth,</hi> and all and every other perſon or perſons who in the time of the late Rebellion under the ſaid late Duke of <hi>Monmouth</hi> were Offi<g ref="char:EOLhyphen"/>cers, or had the Name or Repute of being Officers in his Army.</p>
+            <p>Except alſo all Fugitives and Perſons fled from Our Iu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tice into parts beyond the Seas, or out of this Our Realm, who ſhall not return and render themſelves to Our Chief Iuſtice, or ſome Iuſtice of the Peace, before the Nine and twentieth day of <hi>September</hi> next enſuing.</p>
+            <p>And alſo Excepted out of this Our Pardon the Perſons hereafter particularly mentioned, <hi>viz. George Speke</hi> of <hi>White Lackingtone</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mary Speke</hi> his Wife, <hi>John Speke</hi> 
+               <abbr>Eſq</abbr> their Son, <hi>Samuel Towneſend</hi> of <hi>Ilmiſter, Reginald Tucker</hi> of <hi>Long Sutton, James Hurd</hi> of <hi>Langport, George Pavior</hi> of the ſame, <hi>Gabriel Spratt</hi> of <hi>Aiſh Priors, George Cary</hi> of <hi>Glaſton, John Lewis</hi> of <hi>Babcary, Thomas Lewis</hi> of the ſame, <hi>John Parſons</hi> of the ſame, <hi>Thomas Cram</hi> of <hi>Warmiſter  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Place</hi> of <hi>Eddington, Robert Gee</hi> of <hi>Martock, Hugh Chamberlain, William Savage</hi> of <hi>Taunton, Richard Slape</hi> of the ſame, <hi>John Palmer</hi> of <hi>Bridgwater, John Webber</hi> of the ſame, <hi>Henry Herring</hi> of <hi>Taunton, Thomas Hurd</hi> of <hi>Langport, Chriſtopher Cooke</hi> of <hi>Wilton</hi> Clothier, <hi>Amos Blinham</hi> of <hi>Galhamp<g ref="char:EOLhyphen"/>ton, Mrs. Muſgrave</hi> School-miſtreſs, <hi>Mrs. Sarah Wye, Mrs. Elizabeth Wye, Mrs. Catherine Bovet, Mrs. Scading, Mrs. Mary Blake, Mrs. Elizabeth Knaſh,
+<pb facs="tcp:40659:3"/>
+Mrs. Mary Bird, Mrs. Mary Mead, Mrs. Suſan Peck, Mrs Elizabeth Barns, Mrs. Mary Burridge, Mrs. Hannah Burridge, Mrs. Grace Herring, Mrs. Anne Herring, Mrs. Mary Waters, Mrs. Sarah Waters, Mrs. Elizabeth Germain, Mrs. Grace Germain, Mrs. Hannah Whetham, Mrs. Eaſter Whitham, Mrs. Suſan Tyler, Mrs. Mary Goodwyn, Mrs. Sarah Longham, Mrs. Margery Sympſon, Mrs. Sarah Reynolds, Mrs. Mary Hucklebridge, Mrs. Margaret Hucklebridge, Mrs. Mary Baker, Mrs. Mary Tanner, Mrs. Anne Tanner, Mrs. Elizabeth Gammon, Mrs. Sarah Stacy, Mrs. Hannah Stacy, Mrs. Elizabeth Dyke, Mrs. Elizabeth Baker, Mrs Mary Smith, Mrs. Mary Page, Mrs. Elizabeth March, Mrs. Hannah Grove, Mrs. Elizabeth Biſgood</hi> of <hi>Taunton, John Tucker</hi> of <hi>Shepton Mallet, John Bennet</hi> of <hi>Alisbeere</hi> Gent. <hi>John Greenway</hi> of <hi>Crewkern, Thomas Skinner of Dawliſh</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John <hi>alias</hi> Robert Moor</hi> of <hi>Haychurch, William Way</hi> of <hi>Combe S. Nicholas, Robert Huc<g ref="char:EOLhyphen"/>ker of Taunton  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Penny</hi> of <hi>Shepton Mallet, Thomas Hooper, Edward Keetch, William Parbury,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Green, William Huſſey, William Strode</hi> of <hi>Street</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mary Bath</hi> of <hi>Wrington, George Legg</hi> of the ſame, <hi>Edward Rogers</hi> of <hi>Banwell, John Rogers</hi> of the ſame, <hi>Ralph Green, William Jobbins,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Manning,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Whinnell, John Baker</hi> of <hi>Banwell  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Worms</hi> of <hi>Warmiſter  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Worms</hi> of the ſame, <hi>William Pardoe, Nicholas Smith, John Ed<g ref="char:EOLhyphen"/>wards, John Collier, Henry Coles</hi> of <hi>Bridgwater, Richard Blucock</hi> of <hi>Stoke Gurſey, Henry Ireton, John Cragg <hi>alias</hi> Smith, Mary Jennings, James Hooper, John Ben<g ref="char:EOLhyphen"/>net, Joſeph Gatch, William Thompſon</hi> of <hi>London, Humphrey Aldwyn</hi> of the ſame <hi>Thomas Love <hi>alias</hi> Alexander</hi> of the ſame, <hi>Richard Tucker</hi> of <hi>Biſhops Hull, Wil<g ref="char:EOLhyphen"/>liam Crab</hi> of <hi>Aiſhill</hi> Gent. <hi>Francis Gough</hi> of the ſame, <hi>Francis Vaughan of Criſton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Laurence French</hi> of <hi>Chard, Edward Matthews of Lincolns-Inn</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Hugh Croſs <hi>Senior</hi>
+               </hi> of <hi>Biſhops Hull, Samuel Bernardiſton, Benedict Hack</hi> of <hi>Culliton, Henry Quick</hi> of <hi>Uppolry, John Combe</hi> of <hi>Luppit, Henry Gatchil, Nicholas Hore, George Pippen</hi> of <hi>Dalverton</hi> Gent. <hi>Abraham Carie</hi> of <hi>Taunton, John Huiſh</hi> of the ſame, <hi>Peter Terry</hi> of the ſame, <hi>Richard Raw</hi> of the ſame, <hi>Maurice Frith</hi> of <hi>Wincanton</hi> Gent. <hi>William Tiggens</hi> of <hi>Forde, John Kerridge</hi> of <hi>Lime Regis</hi> Mariner, <hi>Robert Parſons, Samuel Venner, Andrew Fletcher, John Fowke, Robert Bruce, Anthony Bruce, James Fox, Joſeph Gaylard, William Oliver, John Woolters, Nathaniel Hook</hi> Clerk, <hi>Richard Lucas</hi> of <hi>Dulverton, John Bettiſcomb</hi> near <hi>Lime Re<g ref="char:EOLhyphen"/>gis, George Stucky</hi> of <hi>White Lackington, Thomas Saxon, John Jeſſe, George Nye</hi> of <hi>Cheddar, Joſeph Francklyn</hi> of <hi>Worle</hi> Clerk,  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Dore</hi> late Mayor of <hi>Liming<g ref="char:EOLhyphen"/>ton, James Carrier</hi> of <hi>Ilmiſter, Nicholas Covert</hi> of <hi>Chicheſter</hi> Gent. <hi>John Tripp</hi> of <hi>Shippham, Joſeph Hearſe</hi> of <hi>Badgeworth, Francis Creſwick</hi> of <hi>Fanham</hi> 
+               <abbr>Eſq</abbr>  
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Fudge</hi> of <hi>Wedmore, Collonel John Rumſey, Joſhuah Lock <hi>junior,</hi> Stephen Lobb</hi> Clerk, <hi>William Gaunt, Ralph Alexander, Bartholomew Vermeuyden, Major John Manley Iſaak Manley</hi> his Son, <hi>Walter Thimbleton, Aaron Smith</hi> of <hi>London</hi> Gent. Sir <hi>William Waller, Slingsby Bethel</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Francis Charlton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Goodenough, Nathaniel Wade, John Tellier, Richard Edghill, Samuel Story, John Jones, John Vincent, George Bowyer, John Dutton Colt, Charles Earl</hi> of <hi>Machlesfield, John Trenchard</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John wildman</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Titus Oates</hi> Clerk, <hi>Robert Ferguſon</hi> Clerk.</p>
+            <p>Provided that no Proceſs of Vtlary at the Suit of any perſon Plaintiff, ſhall be by virtue of this Our Pardon ſtayed or avoided, unleſs the Defendant appear and put in Bail, where by Law Bail is neceſſary, and take forth a Writ of <hi>Scire facias</hi> againſt the Party at whoſe Suit he was Outlawed. And that this Our Pardon be not allowed to Diſcharge any Outlawry after Iudgment, till Satisfaction or Agreement be made to or with the Party at whoſe Suit the Vtlary was obtained. And Our Will and Pleaſure is, That this preſent Pardon ſhall be of as good Force and effect to Pardon and Diſcharge all and ſingular the Premiſſes above mentioned, and intended to be Pardoned and Diſcharged, as if We ſhould by Letters Patents under the Great Seal have Granted particular Pardons to every one of Our Subjects. And for the better manifeſtation of Our Gracious Intentions and Deſire herein, We do give leave that any of Our Subjects not herein Excepted, may take and Sue out Our particular Pardon, purſuant to the Tenor hereof. And for that purpoſe We ſhall Direct Our Secretaries of State to preſent Warrants to Vs for Our Signature, and give Order to Our Atturney General or Solicitor, to prepare Bills for Paſſing Pardons to ſuch as ſhall deſire the ſame. Provided always, That this Our General Pardon ſhall not extend to any perſon that were in actual Arms againſt Vs in the late Rebellion in the <hi>Weſt,</hi> who being now within this Realm, ſhall not within Three Months after the Publication hereof, lay hold of this Our Pardon, and Teſtifie the ſame by their peaceable returning to their former Habitations, Labours and Imployments.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi> 
+                  <date>the Tenth day of <hi>March</hi> 1685. In the Second Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill, Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings moſt Excellent Majeſty. 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
